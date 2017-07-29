@@ -69,3 +69,4 @@ Admin Page:
 7. To display database statistics –individual statistics
 8. To display integrated statistics
 
+----------------------
