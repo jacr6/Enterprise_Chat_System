@@ -1,0 +1,73 @@
+*{
+
+  padding:0;
+  margin:0;
+  border:0;
+
+}
+
+body {
+
+	background:#6495ED;
+}
+
+#container{
+
+    width:60%;
+    background:white;
+    margin: 0 auto;
+    padding :20px;
+
+}
+#chatbox{
+
+margin-bottom: 5px;
+  border-bottom: 1px red;
+	width:50%;
+	height: 400px;
+
+}
+
+#chatdata{
+  width:50%;
+  padding: 5px;
+  margin-bottom: 5px;
+  border-bottom: 1px solid silver;
+}
+
+
+#send{
+   width:50%;
+   height: 40px;
+   border:1px solid black;
+   border-radius:5px;
+
+}
+#signoff{
+   width:10%;
+   height: 40px;
+   border:1px solid black;
+   border-radius:5px;
+background:#F0E68C;
+
+}
+
+
+input[type='submit']{
+   width:50%;
+   height: 40px;
+   border:1px solid black;
+   border-radius:5px;
+   background:#87CEFA;
+   
+
+}
+
+textarea{
+   width:50%;
+   height: 40px;
+   border:1px solid black;
+   border-radius:5px;
+
+}
+
