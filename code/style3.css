@@ -1,0 +1,19 @@
+body{
+background:silver;
+}
+#info{
+font-weight: bold;
+width:40%;
+background:white;
+margin: auto;
+padding:20px;
+border-radius:5px;
+}
+input[type='submit']{
+background-color: #00FFFF;
+width: 10%;
+height:20px;
+border:1px solid gray;
+border-radius:5px;
+font-weight: bold;
+}

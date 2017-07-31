@@ -1,0 +1,17 @@
+body{
+background:silver;
+}
+#tem{
+width:40%;
+background:white;
+margin: auto;
+padding:20px;
+}
+input[type='submit']{
+background-color: #00FFFF;
+width: 10%;
+height:20px;
+font-weight: bold;
+border:1px solid gray;
+border-radius:5px;
+}

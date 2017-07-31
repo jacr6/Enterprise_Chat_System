@@ -1,0 +1,25 @@
+body{
+background:silver;
+}
+#tem{
+width:70%;
+background:white;
+margin: auto;
+padding:20px;
+border-radius:5px;
+}
+#db{
+width:90%;
+background:white;
+margin: auto;
+padding:20px;
+border-radius:5px;
+}
+input[type='submit']{
+background-color: #00FFFF;
+width: 20%;
+height:25px;
+border:1px solid gray;
+border-radius:5px;
+font-weight: bold;
+}
